@@ -2,8 +2,7 @@ import logging
 from telegram import Update, BotCommand
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = "
-7981544996:AAHAW0dbmk4hl4MlJO8p5RT5UKom1NaKr4I"
+TOKEN = "7981544996:AAHAW0dbmk4hl4MlJO8p5RT5UKom1NaKr4I"
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
