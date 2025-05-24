@@ -11,7 +11,7 @@ logging.basicConfig(
 
 def start_message():
     return (
-        "👋 Benvingut/da a *Veïns Units Lleida!*\n\n"
+        "👋 Benvingut/da a *Veïns Units Lleida*\n\n"
         "Aquest bot t'ajuda a trobar el teu grup de barri i mantenir-te informat.\n\n"
         "👉 Escriu /barri per veure la llista de grups per barri.\n"
         "👉 Escriu /ajuda per més opcions."
